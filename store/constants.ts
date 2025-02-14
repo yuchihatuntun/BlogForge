@@ -52,7 +52,7 @@ export const TYPED_STRINGS = [
 export const EMAIL = 'ayush.singh.xda@gmail.com'
 
 export const SOCIAL_LINKS = {
-  linkedin: 'https://www.linkedin.com/in/alphaayush/',
+  bilibili: 'https://space.bilibili.com/695455436?spm_id_from=333.1007.0.0',
   github: 'https://github.com/ayush013',
   medium: 'https://alphaayush.medium.com/',
   instagram: 'https://www.instagram.com/alphaayush/',
