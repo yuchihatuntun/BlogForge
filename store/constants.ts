@@ -185,7 +185,7 @@ export const PROJECTS: IProject[] = [
 ]
 
 export const SKILLS = {
-  frontend: ['RISCV', 'react', 'redux', 'next', 'angular', 'gsap', 'tailwind', 'sass', 'svg', 'html', 'css'],
+  frontend: ['RISCV', 'Verilog', 'python', 'MATLAB', 'c language', 'html', 'css', 'mathematica', 'R'],
   userInterface: ['figma', 'sketch', 'illustrator', 'photoshop'],
   other: ['git', 'webpack', 'gulp', 'lightroom', 'aftereffects'],
 }
