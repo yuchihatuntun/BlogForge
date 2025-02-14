@@ -43,10 +43,10 @@ export const MENULINKS = [
 ]
 
 export const TYPED_STRINGS = [
-  'I design advanced semiconductor circuits',
-  'I optimize high - performance chip architectures',
-  'I develop cutting - edge microelectronic systems',
-  'I innovate in nanoscale fabrication techniques',
+  'I design semiconductor circuits',
+  'I optimize chip architectures',
+  'I develop microelectronic systems',
+  'I innovate in fabrication techniques',
 ]
 
 export const EMAIL = 'ayush.singh.xda@gmail.com'
