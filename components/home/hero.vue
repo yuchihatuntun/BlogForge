@@ -55,7 +55,7 @@ const { ref: heroSectionRef } = MENULINKS[0]
             Hello 👋🏻
           </h2>
           <h1 class="seq text-3xl">
-            I am Ayush Singh
+            I am Tuntun Yuchiha
           </h1>
         </div>
         <p class="mb-4">
