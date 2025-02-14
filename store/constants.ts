@@ -209,7 +209,24 @@ export enum ItemSize {
 export const TIMELINE: Array<TimelineNodeV2> = [
   {
     type: NodeTypes.CHECKPOINT,
-    title: '2022',
+    title: '2025',
+    size: ItemSize.LARGE,
+    shouldDrawLine: false,
+    alignment: Branch.LEFT,
+  },
+  {
+    type: NodeTypes.CHECKPOINT,
+    title: '2025-01: MCM&ICM',
+    size: ItemSize.SMALL,
+    subtitle: 'Frontend Engineering @ core team',
+    image: '/timeline/MCM.svg',
+    slideImage: '/timeline/MCMICM.png',
+    shouldDrawLine: true,
+    alignment: Branch.LEFT,
+  },
+  {
+    type: NodeTypes.CHECKPOINT,
+    title: '2024',
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
