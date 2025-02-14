@@ -44,8 +44,8 @@ export const MENULINKS = [
 
 export const TYPED_STRINGS = [
   'I design advanced semiconductor circuits',
-  'I develop cutting-edge microelectronic systems',
-  'I optimize high-performance chip architectures',3676
+  'I optimize high - performance chip architectures',
+  'I develop cutting - edge microelectronic systems',
   'I innovate in nanoscale fabrication techniques',
 ]
 
