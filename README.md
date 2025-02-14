@@ -6,7 +6,7 @@
 
 The origin program is [here](https://github.com/ayush013/folio.git), which is powered by React. And I have got to praise the project's owner for his great work. What he had done presents a wonderful UI/UX.
 
-The simple blog-front project contains slideshow, text gradient, dynamic SVG, timeline, and so on.
+The simple blog-front project contains slideshow, text gradient, dynamic SVG, timeline, and so on
 
 All of there are almost the best practices.
 >初始的项目在这里, 是用React驱动的. 不得不说, 这个印度🇮🇳老哥真🐂🍺, 视觉效果简直惊为天人. 这个前端项目包含幻灯片播放, 文字渐变, 动态SVG, 时间轴. 并且基本上都是最佳实践.
