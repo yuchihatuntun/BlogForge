@@ -53,7 +53,7 @@ export const EMAIL = 'ayush.singh.xda@gmail.com'
 
 export const SOCIAL_LINKS = {
   bilibili: 'https://space.bilibili.com/695455436?spm_id_from=333.1007.0.0',
-  github: 'https://github.com/ayush013',
+  github: 'https://github.com/yuchihatuntun',
   medium: 'https://alphaayush.medium.com/',
   instagram: 'https://www.instagram.com/alphaayush/',
   facebook: 'https://www.facebook.com/ayush013',
@@ -185,7 +185,7 @@ export const PROJECTS: IProject[] = [
 ]
 
 export const SKILLS = {
-  frontend: ['javascript', 'react', 'redux', 'next', 'angular', 'gsap', 'tailwind', 'sass', 'svg', 'html', 'css'],
+  frontend: ['RISCV', 'react', 'redux', 'next', 'angular', 'gsap', 'tailwind', 'sass', 'svg', 'html', 'css'],
   userInterface: ['figma', 'sketch', 'illustrator', 'photoshop'],
   other: ['git', 'webpack', 'gulp', 'lightroom', 'aftereffects'],
 }
