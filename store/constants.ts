@@ -75,13 +75,13 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
-    name: 'FigGen - Figma to Code converter',
-    image: '/projects/figgen.jpg',
-    blurImage: '/projects/blur/figgen-blur.jpg',
-    description: 'Pixel perfect HTML/Tailwind for Figma Auto layout designs.',
+    name: 'RISCV - Five-stage pipeline CPU design',
+    image: '/projects/riscv.jpg',
+    blurImage: '/projects/blur/riscv-blur.png',
+    description: 'A RISCV architecture CPU that can perform fast power algorithms.',
     gradient: ['#1F6582', '#1ABCFE'],
     url: 'https://www.figma.com/community/plugin/1065278044402066626',
-    tech: ['typescript', 'figma', 'tailwind'],
+    tech: ['RISCV', 'figma', 'tailwind'],
   },
   {
     name: 'myOKR Website',
