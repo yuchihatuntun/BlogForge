@@ -44,10 +44,10 @@ onMounted(() => {
   <section ref="targetSection" class="section-container relative w-full select-none pb-16 pb-24 pt-20 pt-40">
     <h1 ref="quoteRef" class="text-3xl font-medium md:text-6xl sm:text-4xl">
       <span :class="`about-1 leading-tight ${willChange ? 'will-change-opacity' : ''}`">
-        I am a passionate UI Engineer who bridges the gap between development and design.
+        I am a dedicated microelectronics engineering student who bridges the gap between semiconductor theory and practical chip design, striving to innovate in the realm of integrated circuits and nanoscale technologies.
       </span>
       <span :class="`about-2 leading-tight ${willChange ? 'will-change-opacity' : ''}`">
-        I take responsibility to craft a good user experience using modern frontend sarchitecture.
+        I take responsibility to design efficient and reliable microelectronic systems using cutting-edge semiconductor technologies and advanced fabrication methodologies.
       </span>
     </h1>
   </section>
