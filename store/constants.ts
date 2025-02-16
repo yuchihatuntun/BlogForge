@@ -81,7 +81,7 @@ export const PROJECTS: IProject[] = [
     description: 'A RISCV architecture CPU that can perform fast power algorithms.',
     gradient: ['#1F6582', '#1ABCFE'],
     url: 'https://www.figma.com/community/plugin/1065278044402066626',
-    tech: ['RISCV', 'figma', 'tailwind'],
+    tech: ['RISCV', 'Vhdl', 'MATLAB'],
   },
   {
     name: 'myOKR Website',
