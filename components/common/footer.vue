@@ -35,7 +35,7 @@ const otherProp = reactive({
           <Button classes="ml-3" :type="ButtonTypes.WHITE" name="Let's Talk" :href="SOCIAL_LINKS.topmate" :other-props="otherProp" />
         </div>
         <h2 class="mt-8 text-center text-sm sm:text-base">
-          Designed and Developed with ❤️ by Ayush
+          Designed and Developed with ❤️ by Tuntun Yuchiha
         </h2>
       </div>
     </div>
