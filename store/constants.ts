@@ -80,7 +80,7 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/riscv-blur.png',
     description: 'A RISCV architecture CPU that can perform fast power algorithms.',
     gradient: ['#1F6582', '#1ABCFE'],
-    url: 'https://www.figma.com/community/plugin/1065278044402066626',
+    url: '/riscv-doc.pdf',
     tech: ['RISCV', 'Vhdl', 'MATLAB'],
   },
   {
