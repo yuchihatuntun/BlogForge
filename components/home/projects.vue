@@ -97,7 +97,7 @@ const { ref: projectsSectionRef } = MENULINKS[1]
         My Works
       </h1>
       <h2 class="seq mt-2 max-w-sm w-full text-2xl md:max-w-3xl">
-        I have contributed in over 20+ projects ranging from Frontend development, UI/UX design, Open Source, and Motion Graphics
+        Projects I have worked on, including data analysis, mathematical modeling, and Verilog chip design
       </h2>
     </div>
     <div class="seq gaodu project-wrapper grid auto-cols-max grid-flow-col w-fit snap-x snap-mandatory scroll-pl-6 gap-6 md:gap-10">
