@@ -80,7 +80,7 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/riscv-blur.png',
     description: 'A RISCV architecture CPU that can perform fast power algorithms.',
     gradient: ['#1F6582', '#1ABCFE'],
-    url: '/riscv-doc.pdf',
+    url: '/projects/Paper/riscv-doc.pdf',
     tech: ['RISCV', 'Vhdl', 'MATLAB'],
   },
   {
@@ -89,7 +89,7 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/ACMPM-blur.jpg',
     description: '2024 APMCM Undergraduate Division First Place Award',
     gradient: ['#153BB9', '#0E2C8B'],
-    url: '/2024APMCM.pdf',
+    url: '/projects/Paper/2024APMCM.pdf',
     tech: ['python', 'R', 'MATLAB'],
   },
   {
@@ -98,15 +98,33 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/MathorCup-blur.png',
     description: 'First Prize in the Undergraduate Division of the Fifth Annual MathorCup 2024',
     gradient: ['#245B57', '#004741'],
+    url: '/projects/Paper/2024MathorCup.pdf',
+    tech: ['python', 'MATLAB'],
+  },
+  {
+    name: '2024-ChinaMCM',
+    image: '/projects/ChinaMCM.png',
+    blurImage: '/projects/blur/ChinaMCM-blur.png',
+    description: 'Provincial Third Prize in the 2024 China MCM',
+    gradient: ['#D7A1A1', '#C9A1A1'],
+    url: '/projects/Paper/2024ChinaMCM.pdf',
+    tech: ['python', 'mathematica', 'MATLAB'],
+  },
+  {
+    name: '2024-NCSSM',
+    image: '/projects/NCSSM.png',
+    blurImage: '/projects/blur/NCSSM-blur.png',
+    description: 'Provincial Third Prize in the 2024 China MCM',
+    gradient: ['#2E59A7', '#F5F2E9'],
     url: '/B2400772.pdf',
-    tech: ['python', 'R', 'MATLAB'],
+    tech: ['python', 'mathematica', 'MATLAB'],
   },
 ]
 
 export const SKILLS = {
   frontend: ['RISCV', 'Vhdl', 'python', 'MATLAB', 'c language', 'html', 'css', 'mathematica', 'R'],
-  userInterface: ['figma', 'sketch', 'illustrator', 'photoshop'],
-  other: ['git', 'webpack', 'gulp', 'lightroom', 'aftereffects'],
+  userInterface: ['illustrator', 'photoshop', 'lightroom'],
+  other: ['git'],
 }
 
 export enum Branch {
