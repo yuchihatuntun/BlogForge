@@ -109,7 +109,7 @@ export const PROJECTS: IProject[] = [
     blurImage: '/projects/blur/NCSSM-blur.png',
     description: 'Provincial Third Prize in the 2024 NCSSM',
     gradient: ['#2E59A7', '#F5F2E9'],
-    url: '/B2400772.pdf',
+    url: '/projects/Paper/2024NCSSM.pdf',
     tech: ['python', 'mathematica', 'MATLAB'],
   },
 ]
