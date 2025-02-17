@@ -139,7 +139,7 @@ export enum ItemSize {
 export const TIMELINE: Array<TimelineNodeV2> = [
   {
     type: NodeTypes.CHECKPOINT,
-    title: '2023-2027: Bachelor Journey at SYSU',
+    title: '2023-2027',
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
@@ -267,7 +267,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: '2020-2023: Three Years of Struggle at HSDFZ',
+    title: '2020-2023',
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
