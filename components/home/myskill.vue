@@ -52,15 +52,15 @@ onMounted(() => {
             My Skills
           </h1>
           <h2 class="seq mt-2 w-full text-2xl md:max-w-2xl">
-            I like to take responsibility to craft aesthetic user experience using modern frontend architecture.
+            I like to use modern architectures to build more optimized data analysis as well as circuit architectures.
           </h2>
         </div>
         <div class="mt-10">
-          <renderSkillColumn :skills="SKILLS.frontend" :will-change="willChange" title="FRONTEND DEVELOPMENT" />
+          <renderSkillColumn :skills="SKILLS.frontend" :will-change="willChange" title="MAIN TECHNOLOGY STACK" />
         </div>
         <div class="mt-10 flex flex-wrap">
           <div class="mb-6 mr-6">
-            <renderSkillColumn :skills="SKILLS.userInterface" :will-change="willChange" title="User Interface, User Experience Design" />
+            <renderSkillColumn :skills="SKILLS.userInterface" :will-change="willChange" title="Interface, Experience Design" />
           </div>
           <div>
             <renderSkillColumn :skills="SKILLS.other" :will-change="willChange" title="Other Skills" />
